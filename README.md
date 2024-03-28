@@ -14,11 +14,11 @@ Welcome to the Solidity Smart Contracts repository! This repository contains a c
 
 #### Project Description
 
-The MyToken contract is a basic ERC20-compatible token contract that allows for minting and burning tokens. It includes the following features:
+The MyToken contract is an ERC20-compatible token contract designed to facilitate minting and burning operations. It encompasses the following functionalities:
 
-- Minting: New tokens can be minted and added to the total supply.
-- Burning: Tokens can be burned (destroyed) to reduce the total supply.
-- Balance Tracking: The contract tracks token balances for different addresses.
+- **Minting:** Users can create new tokens, effectively increasing the total token supply.
+- **Burning:** Tokens can be destroyed (burned), leading to a reduction in the total token supply.
+- **Balance Tracking:** The contract diligently monitors token balances across various addresses.
 
 #### Usage of Project
 
