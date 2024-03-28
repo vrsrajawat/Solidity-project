@@ -40,12 +40,17 @@ For more detailed information, including usage examples and function parameters,
 
 ## Contribution 
 
-Contributions to this repository are welcome! To contribute:
+Contributions to this repository are highly encouraged! To contribute, please follow these steps:
 
-1. Fork the repository.
-2. Create a new branch for your feature/fix.
-3. Make your changes and test thoroughly.
-4. Submit a pull request, describing the changes you've made.
+1. **Fork the Repository:** Start by forking the repository to your GitHub account.
+
+2. **Create a New Branch:** After forking, create a new branch dedicated to your feature or fix.
+
+3. **Implement Changes:** Make your desired changes to the code and ensure thorough testing to maintain the integrity of the contract.
+
+4. **Submit a Pull Request:** Once your changes are ready, submit a pull request from your branch to the main repository. Provide a clear description of the modifications you've made and any relevant information for review.
+
+Your contributions will be reviewed by the maintainers, and upon approval, they will be merged into the main repository. Thank you for your contribution!.
 
 ## License 
 
