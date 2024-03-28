@@ -22,19 +22,21 @@ The MyToken contract is an ERC20-compatible token contract designed to facilitat
 
 #### Usage of Project
 
-To deploy the MyToken contract, follow these steps:
+To deploy the MyToken contract, you can follow these steps:
 
-1. Clone this repository to your local machine.
-2. Open the MyToken.sol file in a Solidity development environment (e.g., Remix).
-3. Compile the contract using Solidity version 0.8.18 or a compatible version.
-4. Deploy the compiled contract to an Ethereum-compatible blockchain network.
+1. **Clone the Repository:** Begin by cloning this repository to your local machine.
 
-Interact with the MyToken contract using the following functions:
+2. **Open MyToken.sol:** Use a Solidity development environment such as Remix to open the MyToken.sol file.
 
-- mint(address _address, uint _value): Mint new tokens and assign them to the specified address.
-- burn(address _address, uint _value): Burn (destroy) tokens from the specified address if the balance is sufficient.
+3. **Compile the Contract:** Ensure that you compile the contract using Solidity version 0.8.18 or any compatible version.
 
-For more information, refer to the code and comments within the MyToken.sol file.
+4. **Deploy the Compiled Contract:** After compilation, deploy the compiled contract to any Ethereum-compatible blockchain network of your choice.
+
+5. **Interact with Contract Functions:**
+   - **mint(address _address, uint _value):** Use this function to mint new tokens and assign them to the specified address.
+   - **burn(address _address, uint _value):** Utilize this function to burn (destroy) tokens from the specified address if the balance is sufficient.
+
+For more detailed information, including usage examples and function parameters, please refer to the code and comments provided within the MyToken.sol file.
 
 ## Contribution 
 
