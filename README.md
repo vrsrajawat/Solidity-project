@@ -53,4 +53,4 @@ Your contributions will be reviewed by the maintainers, and upon approval, they 
 
 ## License 
 
-All contracts in this repository are released under an UNLICENSED/MIT license. Refer to the individual contract files for more details.
+All contracts within this repository are distributed under the UNLICENSED/MIT license. Please consult the specific contract files for further details.
