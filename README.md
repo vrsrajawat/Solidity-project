@@ -1,7 +1,6 @@
 # Solidity-project
 # Solidity Smart Contracts Repository
-
-Welcome to the Solidity Smart Contracts repository! This repository contains a collection of simple smart contracts, including the MyToken contract, which is an implementation of a basic token contract using the ERC20 standard.
+Welcome to the Solidity Smart Contracts repository! Here, you'll find a curated collection of simple smart contracts, among which is the MyToken contract. MyToken is an implementation of a basic token contract adhering to the ERC20 standard.
 
 ## Contracts Included
 
